@@ -9,3 +9,11 @@ body .container {
     max-width: 1000px;
     margin: 30px auto;
 }
+
+#api_status {
+  width: 40px;
+  height: 40px;
+  border-radius: 100%;
+  background-color: #cccccc;
+}
+
